@@ -1,7 +1,7 @@
 <h1>Projeto Fundação Bradesco</h1><br>
 
 <h2>Descrição</h2>
-<p>Neste projeto, utilizei as linguagens 'HTML', 'CSS' e para criar uma página de um site da fundação bradesco.</p><br>
+<p>Neste projeto, utilizei as linguagens 'HTML' e 'CSS' para criar uma página de um site da fundação bradesco.</p><br>
 
 <h2>Funcionalidades</h2>
 <ul>
